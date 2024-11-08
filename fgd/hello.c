@@ -7,4 +7,6 @@ void main (){
     int g = 10;
 
     printf ("%d", g);
+
+    printf ("testing");
 }
